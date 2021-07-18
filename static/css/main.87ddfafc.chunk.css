@@ -1,0 +1,2 @@
+html{font-family:Arial,Helvetica,sans-serif;font-size:20px}.title{text-align:center;color:#5f9ea0}.content{display:flex;flex-wrap:wrap;grid-gap:10px;gap:10px;justify-content:center}.user{font-family:Georgia,"Times New Roman",Times,serif;color:#0235dd}.todo{padding:10px;display:flex;flex-direction:column;grid-gap:10px;gap:10px;width:500px;border:1px solid;border-radius:3px;background:#ddcbaa}.todo__title:first-letter{text-transform:uppercase}.todo__completed{color:green}.todo__in-proggres{color:red}
+/*# sourceMappingURL=main.87ddfafc.chunk.css.map */
